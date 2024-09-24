@@ -11,7 +11,7 @@ const Navbar = () => {
     <div>
       <div className="navbar">
       <div className="nav-logo">
-        <h2>FOODIE</h2>
+        <h2 className="logof">Asian Cuisine</h2>
         </div>
         <div className={Mobile ? "nav-links": "links"} onClick={()=> setMobile(false)}>
 <ul>
