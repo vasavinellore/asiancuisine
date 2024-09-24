@@ -201,8 +201,9 @@ nav {
   display: flex;
   margin-top: 10rem;
 }
+.logof{color:#e48f0f;}
 .footer-logo-container {
-  max-width: 110px;
+  max-width: 150px;
 }
 .footer-icons {
   margin-top: 1.4rem;
