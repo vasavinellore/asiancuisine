@@ -44,6 +44,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-logo-container">
+    <h2>Asian Cuisine</h2>
         <img src={Logo} alt="" />
       </div>
       <div className="navbar-links-container">
